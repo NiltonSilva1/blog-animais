@@ -129,7 +129,7 @@ const EditPost = () => {
 								value={tags}
 							/>
 						</label>
-						{!response.loading && <button className="btn">Editar</button>}
+						{!response.loading && <button className="btn">Salvar</button>}
 						{response.loading && (
 							<button className="btn" disabled>
 								Aguarde.. .

@@ -1,0 +1,25 @@
+.about {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.about p {
+	color: #000;
+	margin: 2em 0 2em 0;
+	font-weight: 600;
+}
+
+.about a {
+	display: block;
+	margin-top: 15px;
+	padding: 40px 15px;
+	margin-left: 400px;
+	width: 200px;
+}
+
+.about img {
+	height: 180px;
+	border-radius: 100px;
+}

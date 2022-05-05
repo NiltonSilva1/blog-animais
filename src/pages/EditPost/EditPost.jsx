@@ -109,7 +109,7 @@ const EditPost = () => {
 							alt={post.title}
 						/>
 						<label>
-							<span>Conteúdo:</span>
+							<span>Texto:</span>
 							<textarea
 								name="body"
 								required

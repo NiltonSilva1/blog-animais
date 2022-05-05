@@ -77,7 +77,7 @@ const CreatePost = () => {
 					/>
 				</label>
 				<label>
-					<span>Conteúdo:</span>
+					<span>Texto:</span>
 					<textarea
 						name="body"
 						required

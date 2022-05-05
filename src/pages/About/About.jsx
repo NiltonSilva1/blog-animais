@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import styles from "./About.module.css";
 
 const About = () => {
@@ -7,11 +6,11 @@ const About = () => {
 			<h2>
 				Sobre o Mini <span>Blog</span>
 				<p>
-					Este é um projeto de blog com fins de estudar React e contar algumas
-					histórias sobre o seu pet :)
+					Este é um projeto de blog com a finalidade de estudar React e contar
+					algumas histórias sobre o seu pet :)
 				</p>
 				<p>
-					Qualquer dúvida ou sujestão favor encaminha um email para:
+					Qualquer dúvida ou sugestão favor encaminhar um email para:
 					<br />
 					<a href="mailto: niltonsilva.code@gmail.com">
 						Administração
